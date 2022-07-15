@@ -1,4 +1,4 @@
-### Hi there 👋 <b><a href="https://portfolio-website-chi-orcin.vercel.app/">Click to view my Work Portfolio</a></b>
+### Hi there 👋 <b><a href="https://portfolio-website-chi-orcin.vercel.app/" target="_blank">Click to view my Work Portfolio</a></b>
 
 <img align="left" height="182.34" width="47%" src="https://github-readme-stats.vercel.app/api?username=majegoid&show_icons=true&theme=radical" />
 <img align="left" height="182.34" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majegoid&layout=compact" />
