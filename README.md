@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there 👋 <b><a href="https://portfolio-website-chi-orcin.vercel.app/">Click to view my Work Portfolio</a></b>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=majegoid&show_icons=true&theme=radical" />
+<img align="left" height="182.34" width="47%" src="https://github-readme-stats.vercel.app/api?username=majegoid&show_icons=true&theme=radical" />
+<img align="left" height="182.34" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majegoid&layout=compact" />
+  
+ 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majegoid&layout=compact" />
-
-<a href="https://portfolio-website-chi-orcin.vercel.app/">View my Work Portfolio</a>
 
 <!--
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
